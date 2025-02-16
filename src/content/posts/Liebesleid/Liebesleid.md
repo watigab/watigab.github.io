@@ -1,7 +1,8 @@
 ---
 title: 'Fritz Kreisler : Liebesleid'
-published: 2024-08-01
-description: This post demonstrates how to include embedded video in a blog post.
+published: 2025-02-16
+description: une musique coolos
+image: "./Kreisler.png"
 tags: [Musique]
 category: Article
 draft: false
