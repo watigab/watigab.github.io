@@ -3,7 +3,7 @@ import I18nKey from '@i18n/i18nKey'
 import { i18n } from '@i18n/translation'
 
 export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
-  [LinkPreset.Home]: {
+  [LinkPreset.Accueil]: {
     name: i18n(I18nKey.home),
     url: '/',
   },
