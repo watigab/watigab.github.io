@@ -3,8 +3,8 @@ title: 'Fritz Kreisler : Liebesleid'
 published: 2025-02-16
 description: une musique coolos
 image: "./Kreisler.png"
-tags: [Musique]
-category: Article
+tags: [musique]
+category: article
 draft: false
 ---
 
