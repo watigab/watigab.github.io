@@ -1,6 +1,6 @@
 ---
 title: revendications
-published: 2025-02-11
+published: 2025-03-15
 description: ''
 image: "./image.png"
 tags: [tribunal]
